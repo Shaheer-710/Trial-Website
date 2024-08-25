@@ -1,0 +1,43 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.carousel-inner img{
+    width: 600px;
+}
+.any:hover{
+     color: red;
+}
+.div5{
+    background-color: bisque;
+    width: 100%;
+}
+.imagezs img{
+    padding: 10px;
+}
+footer p h1{
+    color: white;
+}
+body{
+    overflow-x:hidden ;
+}
+ h1:hover{
+         color: red;
+}
+h1{
+    font-weight: bolder;
+}
+button:hover{
+    color: rgba(104, 28, 28, 0.664);
+    transition: 0.5s;
+}
+a:hover{
+    color: rgb(255, 0, 0);
+}
+li{
+    display: flex;
+    color: white;}
+
+.idk{
+       background-image: url(imgs\section-bg2.jpg);
+       background-size: 100%;
+}
